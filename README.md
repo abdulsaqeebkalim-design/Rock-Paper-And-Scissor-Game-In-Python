@@ -1,5 +1,5 @@
 # Rock-Paper-And-Scissor-Game-In-Python
-This is the first project(Rock, Paper and Scissor Game) that I build in python as a new first year student of BTECH in AIML 
+'''This is the first project(Rock, Paper and Scissor Game) that I build in python as a new first year student of BTECH in AIML''' 
 ''' project 1 : Rock, Paper and Scissor
 rock = -1
 paper = 0
